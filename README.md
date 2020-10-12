@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Golang & Kubernetes.
 - 👯 I’m looking to collaborate on various Golang projects.
 - 🤔 I’m looking for help with finding a use case for multi-threaded Golang web app.
-- 💬 Ask me about data-structures, algorithms, kubernetes, etc.
+- 💬 Ask me about data-structures, algorithms, kubernetes and anime :wink:
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubham14bajpai&show_icons=true&theme=cobalt)
 
