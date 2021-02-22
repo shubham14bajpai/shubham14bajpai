@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [OpenEBS](https://github.com/openebs)
 - 🌱 I’m currently learning Golang & Kubernetes.
+- :crab: Rustacean in the making.
 - 👯 I’m looking to collaborate on various Golang projects.
 - 🤔 I’m looking for help with finding a use case for multi-threaded Golang web app.
 - 💬 Ask me about data-structures, algorithms, kubernetes and anime :wink:
