@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [OpenEBS](https://github.com/openebs)
-- 🌱 I’m currently learning Golang & Kubernetes.
-- :crab: Rustacean in the making.
+- 🔭 I’m currently working on [Tanzu](https://github.com/vmware-tanzu)(noob) and [OpenEBS](https://github.com/openebs)(reviewer)
+- 🌱 I’m currently learning Infrastructure, Golang & Kubernetes.
+- :crab: Rustacean in the making, ⏸️ for sometime. Will come back to it 😅.
 - 👯 I’m looking to collaborate on various Golang projects.
 - 🤔 I’m looking for help with finding a use case for multi-threaded Golang web app.
 - 💬 Ask me about data-structures, algorithms, kubernetes and anime :wink:
